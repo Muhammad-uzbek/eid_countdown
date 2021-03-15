@@ -75,7 +75,7 @@ h5{
 }
 @media (max-width: 500px) {
   h1 {
-    font-size: 0.6em;
+    font-size: 14px;
   }
 
   .time {
