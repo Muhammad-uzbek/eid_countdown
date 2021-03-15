@@ -75,7 +75,7 @@ h5{
 }
 @media (max-width: 500px) {
   h1 {
-    font-size: 30px;
+    font-size: 15px;
   }
 
   .time {
@@ -87,9 +87,8 @@ h5{
     margin: 0;
   }
 #year{
-  font-size: 70px;
+  font-size: 60px;
 }
-
   .time small {
     font-size: 10px;
   }
