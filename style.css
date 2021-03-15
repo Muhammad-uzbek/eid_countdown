@@ -74,7 +74,7 @@ h5{
   color: rgba(172, 172, 172, 0.623);
 }
 @media (max-width: 500px) {
-  h1 {
+  #ramazon, #pastki {
     font-size: 14px;
   }
 
