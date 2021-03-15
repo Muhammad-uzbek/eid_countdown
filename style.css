@@ -70,7 +70,7 @@ body * {
   margin: 0 0 5px;
 }
 h5{
-  margin-top: 250px;
+  margin-top: 10px;
   color: rgba(172, 172, 172, 0.623);
 }
 @media (max-width: 500px) {
