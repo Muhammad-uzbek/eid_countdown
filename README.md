@@ -1,4 +1,4 @@
-## Ramadan Countdown
+## Eid Countdown
 
 ## Project Specifications
 
