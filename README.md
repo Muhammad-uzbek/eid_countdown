@@ -7,4 +7,4 @@
 - Insert values into the DOM
 - Show a spinner right before loading the countdown
 - Show Hijri and Gregorian year
-- link: https://sad-lamarr-65a349.netlify.app/
+- link: https://hayit-qachanakan.netlify.app/
