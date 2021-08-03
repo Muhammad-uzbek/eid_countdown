@@ -6,7 +6,7 @@ const countdown = document.getElementById('countdown');
 const year = document.getElementById('year');
 const loading = document.getElementById('loading');
 const currentYear = new Date().getFullYear();
-const ramadan = new Date(`July 18 ${currentYear} 18:40:00`);
+const ramadan = new Date(`May 3 ${currentYear} 18:40:00`);
 // Set background year
 year.innerText = (Math.round((currentYear - 623) * (33 / 32)))+"|"+currentYear;
 
